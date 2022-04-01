@@ -21,3 +21,7 @@ function betaJoin() {
 function contribueNow() {
     window.location.href = "/pages/contribute.html"
 }
+
+function signCLA() {
+    window.location.href = "/pages/cla.html"
+}
